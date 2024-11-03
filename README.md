@@ -49,4 +49,4 @@ This project includes functions to plot:
 - **MFCC**: Plots the Mel-frequency cepstral coefficients.
 
 ## Results
-The model achieves a classification accuracy of 100%. The final evaluation includes a confusion matrix and a detailed classification report.
+The final evaluation includes a confusion matrix and a detailed classification report.
